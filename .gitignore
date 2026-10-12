@@ -1,5 +1,19 @@
-# 编译产物
+# ===== C / C++ =====
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
 *.exe
 *.out
-*.o
-
+*.app
+build/
+bin/
+obj/
+Debug/
+Release/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
